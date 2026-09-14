@@ -6,7 +6,7 @@ package lab1;
 class FizzBuzz {
 
     public static void main(String[] args) {
-        // some change
+        // some change v2
 //
 //        for (int i = 1; i <= 100; i++) {
 //
